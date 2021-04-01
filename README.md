@@ -1,2 +1,1 @@
-# spam
-Spam call
+# brutalspammer
